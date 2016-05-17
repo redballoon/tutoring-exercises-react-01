@@ -1,0 +1,313 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"f",
+				"f8f8f8"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"ma",
+				"matches"
+			],
+			[
+				"wi",
+				"window_state"
+			],
+			[
+				"ope",
+				"open_windows"
+			],
+			[
+				"create",
+				"createMarker"
+			],
+			[
+				"marke",
+				"markers"
+			],
+			[
+				"list",
+				"list_container"
+			],
+			[
+				"load",
+				"loadList"
+			],
+			[
+				"loc",
+				"location"
+			],
+			[
+				"mar",
+				"markers"
+			],
+			[
+				"a",
+				"address"
+			],
+			[
+				"functio",
+				"function_exists"
+			],
+			[
+				"lis",
+				"list_container"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"canc",
+				"cancel_btn"
+			],
+			[
+				"dro",
+				"drop-wrapper"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"new",
+				"new_txt"
+			],
+			[
+				"can",
+				"cancel_btn"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"input",
+				"input_container"
+			],
+			[
+				"inp",
+				"input_wrapper"
+			],
+			[
+				"log",
+				"logged_in"
+			],
+			[
+				"pos",
+				"posX"
+			],
+			[
+				"col",
+				"col_min"
+			],
+			[
+				"co",
+				"col_max"
+			],
+			[
+				"com",
+				"col_max"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"req",
+				"request_values"
+			],
+			[
+				"ge",
+				"getURLParameter"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/fred/Documents/Work/Web Apps/RcCar/index.html",
+		"/Users/fred/Library/Caches/Cleanup At Startup/Transmit/33E78700-4E36-4FD1-8B4D-A0D83D80B4A5/global.css",
+		"/Users/fred/Documents/Work/Web Apps/SafePawsVets/build/actions/autoload.php",
+		"/Users/fred/Downloads/parse-php-sdk-master/README.md",
+		"/Users/fred/Documents/Work/Web Apps/SafePawsVets/src/actions/list.php",
+		"/Users/fred/Library/Caches/Cleanup At Startup/Transmit/AC31A359-F414-4AFD-B4F8-D9924248CD8C/index.php",
+		"/Users/fred/Documents/Work/Web Apps/SShop/src/js/global.js",
+		"/Users/fred/Documents/Work/Web Apps/SShop/src/less/global.less",
+		"/Users/fred/Documents/Work/Web Apps/SShop/package.json",
+		"/Users/fred/Documents/Work/Web Apps/SShop/config.js",
+		"/Users/fred/Library/Caches/Cleanup At Startup/Transmit/963A7644-E3E8-404D-9CD2-D970D62E1DFC/login.php",
+		"/Users/fred/Documents/Work/Web Apps/Sandbox/src/templates/login-template.php",
+		"/Users/fred/Documents/Work/Web Apps/Sandbox/src/header.php",
+		"/Users/fred/Documents/Work/Web Apps/Collabstoryboard/src/js/global.js",
+		"/Users/fred/Documents/Work/Web Apps/Sandbox/gulpfile.js",
+		"/Users/fred/Documents/Work/Web Apps/Collabstoryboard/gulpfile.js",
+		"/Users/fred/Documents/Work/Sites/DesignbyQuirino.com/htdocs/portfolio_2014/src/js/lib/spin.min.js",
+		"/Users/fred/Library/Caches/Cleanup At Startup/Transmit/524E3518-730D-4FC0-8A8C-C78AB4CD04FE/boutique.css",
+		"/Users/fred/Library/Caches/Cleanup At Startup/Transmit/3129B531-F8C9-4258-8277-7697F6D2EC4F/boutique.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".mobile ",
+			".wrapper",
+			"map_status",
+			"9831084",
+			"position",
+			"filetime",
+			"filesize",
+			"$url",
+			"960",
+			"960//",
+			"960",
+			"shadow",
+			"shadwo",
+			"transition",
+			"$app['state']",
+			".flake",
+			"flake",
+			"images",
+			"copy_over",
+			"\"^",
+			"jQuery",
+			"browserify",
+			"update:",
+			"terminal",
+			"chrome",
+			"terminal"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
